@@ -10,8 +10,8 @@
     <TextView
         android:id="@+id/id_listitem"
         android:layout_width="0dp"
-        app:layout_constraintHorizontal_weight="1"
         android:layout_height="wrap_content"
+        app:layout_constraintHorizontal_weight="1"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -40,8 +40,8 @@
     <TextView
         android:id="@+id/korean_listitem"
         android:layout_width="0dp"
-        app:layout_constraintHorizontal_weight="2"
         android:layout_height="wrap_content"
+        app:layout_constraintHorizontal_weight="2"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toRightOf="parent"
